@@ -63,3 +63,10 @@ To verify if predicted probabilities match real observed frequencies, a reliabil
 
 2. Discrimination (ROC-AUC Score)
 The model's overall ranking ability was evaluated via ROC curve analysis, achieving an **ROC-AUC score of 0.736**, demonstrating strong discrimination capability.
+
+## 📂 Repository Structure
+
+```text
+│── framingham.csv                          # Raw dataset from Kaggle
+├── logistic-regression-heart-disease.ipynb # Complete Analysis Notebook
+├── README.md                               # Project documentation
